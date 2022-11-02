@@ -30,7 +30,3 @@ describe('chooseyEndings()', function () {
     );
   });
 });
-
-
-
-
